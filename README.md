@@ -103,4 +103,4 @@ Malgrado la loro semplicità, questi due programmi:
 - dimostrano un’inaspettata intuizione astrofisica.
 
 Un piccolo frammento del 1989 che, rivisto oggi, appare molto più raffinato di quanto avrebbe potuto sembrare all’epoca.
-# END-STAR
+
