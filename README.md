@@ -81,7 +81,7 @@ Non esiste un’animazione intermedia visibile: da fuori appare come una scompar
 | Fenomeno | Dettaglio | Tecnica BASIC |
 |---------|-----------|----------------|
 | **Pulsazione della stella di neutroni** | Alternanza cromatica continua | `IF c=9 THEN c=11 ELSE c=9` + `PAINT` |
-| **Accrescimento** | Pixel bianchi che si muovono verso la pulsar | `PSET` |
+| **Accrescimento** | Pixel che si muovono verso la pulsar | `PSET` |
 | **Collasso in buco nero** | La pulsar scompare istantaneamente | `PAINT (xSN,240),0` |
 | **Identificazione dell’evento** | Messaggio finale "BUCO NERO" | `LOCATE` + `PRINT` |
 
@@ -103,3 +103,4 @@ Malgrado la loro semplicità, questi due programmi:
 - dimostrano un’inaspettata intuizione astrofisica.
 
 Un piccolo frammento del 1989 che, rivisto oggi, appare molto più raffinato di quanto avrebbe potuto sembrare all’epoca.
+# END-STAR
